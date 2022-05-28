@@ -1,0 +1,7 @@
+# Anotações sobre Git/GitHub
+
+- git clone + https: trás o repositório criado no github pro local;
+- git status: verifica se há arquivos novos ou alterados não salvos no repositório;
+- git add . : adiciona esses arquivos;
+- git commit -m "mensagem coerente" : cria comentário para o arquivo que tá sendo adicionado;
+- git push origin main: envia os commits pra nuvem.
