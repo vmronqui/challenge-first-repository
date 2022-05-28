@@ -87,4 +87,5 @@ public class Main{
         int x = 10 - 5 * 2 + --i;
         System.out.println(+x);
     }
+
 }
